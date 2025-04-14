@@ -12,17 +12,21 @@
 ---
 
 ## 🧠 Skills & Tools
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".net core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"/>
+  <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt="C#"/>
+  <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Javascript"/>
+  <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
+  <img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
+  <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML"/>
+  <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="CSS"/>
+  <img src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000" alt=".Net Core"/>
+  <img src="https://img.icons8.com/?size=50&id=ezj3zaVtImPg&format=png&color=000000" alt="Visual studio"/>
+  <img src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual studio code"/>
+  <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
+  <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
 
 </p>
 
