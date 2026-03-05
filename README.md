@@ -32,6 +32,14 @@
 <img src="https://img.icons8.com/?size=50&id=22813&format=png&color=000000" alt="Docker"/>
 <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
 <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
+<img src="https://img.icons8.com/?size=50&id=22813&format=png&color=000000" alt="Docker"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=50&id=104080&format=png&color=000000" alt="Kubernetes"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=50&id=16765&format=png&color=000000" alt="Ansible"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=50&id=22583&format=png&color=000000" alt="Terraform"/>
+
 
   <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="Python"/>
   <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
@@ -47,6 +55,23 @@
   <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"/>
 
 </p>
+
+---
+
+## 🖥️ Operating Systems
+
+<p align="center">
+  
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+
+</p>
+
+<br>
+
 
 ---
 ## 📫 Contact Me
