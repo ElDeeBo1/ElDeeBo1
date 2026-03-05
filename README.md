@@ -25,7 +25,6 @@
 ## 🧠 Skills & Tools
 <p align="center">
 
-<img src="https://img.icons8.com/?size=50&id=118497&format=png&color=000000" alt="Cisco"/>
 <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000" alt="Windows Server"/>
 <img src="https://img.icons8.com/?size=50&id=17842&format=png&color=000000" alt="Linux"/>
 <img src="https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash"/>
@@ -36,9 +35,7 @@
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/?size=50&id=104080&format=png&color=000000" alt="Kubernetes"/>
 &nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=50&id=16765&format=png&color=000000" alt="Ansible"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=50&id=22583&format=png&color=000000" alt="Terraform"/>
+
 
 
   <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="Python"/>
@@ -57,35 +54,46 @@
 </p>
 
 ---
-
 ## 🖥️ Operating Systems
 
 <p align="center">
   
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/></a>
 
 </p>
 
 <br>
 
-
 ---
+
 ## 📫 Contact Me
 <p align="center">
-	<a href="mailto:eldeeba124@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/noorelmobashar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/201080168344"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://linkedin.com/in/ahmed-eldeeb-792029278"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.facebook.com/ahmed.eldeeb.171830/">
-       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
+
+<a href="mailto:eldeeba124@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/noorelmobashar">
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/201080168344">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ahmed-eldeeb-792029278">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/ahmed.eldeeb.171830/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
 </p>
-
-
 ---
 
 ⭐️ Don't forget to star some of my repositories if you like them!
