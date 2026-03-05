@@ -60,11 +60,8 @@
 <p align="center">
   
    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-     &nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-      &nbsp;&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-
+   <a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
 <br>
