@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 * 🎓 IT Graduate from **Damietta University**
-* 🖥️ Currently studying **System Administration at ITI**
+* 🖥️ Currently studying **System Administration at ITI** 
 * 🔧 Focused on **Linux, System Administration, Cloud, and DevOps**
 * ⚙️ Learning **Automation, Infrastructure Management, and DevOps Practices**
 * 💻 Previously gained experience in **Backend Development using .NET Core**
@@ -54,14 +54,16 @@
 </p>
 
 ---
-
 ## 🖥️ Operating Systems
 
 <p align="center">
   
-   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-   <a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+
 </p>
 
 <br>
